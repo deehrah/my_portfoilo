@@ -117,7 +117,7 @@ export default function Projects() {
         <h2 className="text-2xl font-bold mb-2">Product Mockups</h2>
         <p className="text-muted-foreground text-sm mb-8">Modern interfaces built in Figma — wireframes, high-fidelity mockups, and prototypes.</p>
         <div className="grid sm:grid-cols-2 gap-5">
-          {ui.map(({ title, desc, img }) => (
+          {ui.map(({ title, desc }) => (
             <div key={title} className="bg-card border border-border rounded-2xl overflow-hidden group hover:border-accent/40 hover:-translate-y-1 transition-all duration-300">
               <div className="p-5">
                 <h3 className="font-semibold mb-1">{title}</h3>
