@@ -17,7 +17,7 @@ const steps = [
 
 const testimonials = [
   { q: "Chidera completely transformed how our brand shows up online. Inbound leads doubled within a month.", name: "Sarah Chen", role: "Founder at Oliva" },
-  { q: "Our site was a mess. Chidera redesigned the entire experience and task completion jumped significantly.", name: "Marcus Webb", role: "Head of Product at Kael" },
+  { q: "Working with Chidera was one of the best decisions we made real results, fast and reliable", name: "Paschal Udolisah", role: "Founder, Ninety9 Tech Hub" },
   { q: "Needed a brand and website in 5 weeks before our funding round. Delivered on time, on brief.", name: "Lina Torres", role: "CEO at Sona" },
   { q: "First project was a WordPress site. Two years later, Chidera is still my first call for anything web.", name: "David Park", role: "Creative Director" },
   { q: "Challenged our assumptions, simplified the flow, and shipped a site our team actually enjoys managing.", name: "Nina Alvarez", role: "Founder at Flux" },
